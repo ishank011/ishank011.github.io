@@ -1,1 +1,38 @@
-theme: jekyll-theme-cayman
+# Site settings
+title: Ishank Arora
+description: "Hi! I'm Ishank Arora. Web Developer. Machine Learning Enthusiast. Competitive Programmer."
+url: 'http://ishankarora.tech'
+baseurl: '/'
+# google_analytics: 'UA-XXXXXX-X'
+# disqus_shortname: 'your-disqus-name'
+
+author:
+  name: 'Ishank Arora'
+  email: ishank.arora.cse14@iitbhu.ac.in
+  facebook_username: ish95
+  github_username:  ishank011
+  linkedin_username:  ishank011
+
+defaults:
+  -
+    scope:
+      path: ''
+      type: 'posts'
+    values:
+        layout: 'post'
+
+# Build settings
+destination: _site
+paginate: 10
+permalink: /:title/
+markdown: kramdown
+highlighter: rouge
+
+kramdown:
+  # use Github Flavored Markdown
+  input: GFM
+  # do not replace newlines by <br>s
+  hard_wrap: false
+
+gems: ['jekyll-paginate']
+exclude: ['README.md', 'Gemfile', 'Gemfile.lock']
