@@ -1,22 +1,23 @@
 # main text of home
-name: Ishank Arora
-bio: INTP. Machine learning enthusiast. Web developer.
+name: John Doe
+bio: A Man who travels the world eating noodles
 
 # twitter summary info
-description: Ishank Arora's website.
+description: A blog about technology and stuff related
 
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture: assets/images/profile1.JPG
-
-url: https://koppl.in/indigo
+picture: assets/images/profile.jpg
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
 resume: true
 resume-external: true
-resume-url: https://www.ishankarora.tech/assets/Ishank_Arora.pdf
+resume-url: https://google.com/?q=my+resume
+
+url: https://koppl.in/indigo
+# your url: http://USERNAME.github.io
 
 permalink: /:title/
 
@@ -29,39 +30,46 @@ permalink: /:title/
 
 # if you don't want comments in your posts, leave categories empty
 disqus:
-  shortname:  # enter this from your disqus account
-  categories:  # only show disqus for posts that have these categories
+  shortname: mydisqus # enter this from your disqus account
+  categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: ish95
-#twitter: mytwitter
+facebook: myfacebook
+twitter: mytwitter
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
-linkedin: ishank011
+# linkedin: mylinkedin
 # youtube: myyoutube
 # spotify: myspotify
-github: ishank011
+github: mygithub
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
-quora: ishank011
+# quora: userquora
 # reddit: username
-#medium: medium
+medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: ishank.arora.cse14@iitbhu.ac.in
+email: myemail@gmail.com
 
 authors:
     johndoe:
-        name: Ishank Arora
-        bio: INTP. Machine learning enthusiast. Web developer.
+        name: John Doe
+        bio: A Man who travels the world eating noodles
         external-image: false
-        picture: assets/images/profile1.JPG
+        picture: assets/images/profile.jpg
+        twitter: johndoe
+    jamesfoster:
+        name: James Foster
+        bio: A Man who develops software with coffee
+        external-image: false
+        picture: assets/images/james.jpg
+        twitter: jamesfoster
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
 # normal = 560px / large = 810px
-width: large
+width: normal
 
 # if you don't need pagination, comment the *paginate* configs below
 # paginate: 5
@@ -72,7 +80,7 @@ projects: true
 
 # if you don't need "about" or "blog", comment them out below
 about: true
-blog: false
+blog: true
 
 # do you want to show the "read time" of the posts?
 read-time: true
