@@ -16,9 +16,6 @@ resume: true
 resume-external: true
 resume-url: https://www.ishankarora.tech/assets/Ishank_Arora.pdf
 
-#url: https://koppl.in/indigo
-#your url: http://ishank011.github.io
-
 permalink: /:title/
 
 # To enable google analytics, supply your token below
