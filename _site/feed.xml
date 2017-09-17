@@ -5,8 +5,8 @@
     <description>Ishank Arora's homepage.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sun, 17 Sep 2017 21:58:10 +0530</pubDate>
-    <lastBuildDate>Sun, 17 Sep 2017 21:58:10 +0530</lastBuildDate>
+    <pubDate>Sun, 17 Sep 2017 22:13:48 +0530</pubDate>
+    <lastBuildDate>Sun, 17 Sep 2017 22:13:48 +0530</lastBuildDate>
     <generator>Jekyll v3.5.2</generator>
     
       <item>
@@ -182,8 +182,8 @@
 
 </description>
         <pubDate>Wed, 24 Feb 2016 22:48:00 +0530</pubDate>
-        <link>http://localhost:4000/blog/2016/02/24/markdown-extra-components.html</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/2016/02/24/markdown-extra-components.html</guid>
+        <link>http://localhost:4000/markdown-extra-components/</link>
+        <guid isPermaLink="true">http://localhost:4000/markdown-extra-components/</guid>
         
         <category>markdown</category>
         
@@ -383,8 +383,8 @@ It’s sometimes handy for breaking things up.&lt;/p&gt;
 
 </description>
         <pubDate>Wed, 24 Feb 2016 22:44:00 +0530</pubDate>
-        <link>http://localhost:4000/blog/2016/02/24/markdown-common-elements.html</link>
-        <guid isPermaLink="true">http://localhost:4000/blog/2016/02/24/markdown-common-elements.html</guid>
+        <link>http://localhost:4000/markdown-common-elements/</link>
+        <guid isPermaLink="true">http://localhost:4000/markdown-common-elements/</guid>
         
         <category>markdown</category>
         
@@ -421,8 +421,8 @@ It’s sometimes handy for breaking things up.&lt;/p&gt;
 If you need some help, just &lt;a href=&quot;http://github.com/sergiokopplin/indigo/issues&quot;&gt;tell me&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Sat, 23 Jan 2016 22:10:00 +0530</pubDate>
-        <link>http://localhost:4000/project/2016/01/23/indigo-jekyll-theme.html</link>
-        <guid isPermaLink="true">http://localhost:4000/project/2016/01/23/indigo-jekyll-theme.html</guid>
+        <link>http://localhost:4000/indigo-jekyll-theme/</link>
+        <guid isPermaLink="true">http://localhost:4000/indigo-jekyll-theme/</guid>
         
         <category>jekyll</category>
         
