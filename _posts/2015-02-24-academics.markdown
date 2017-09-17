@@ -1,14 +1,13 @@
 ---
-title: "Markdown Extra Components"
+title: "Academics"
 layout: post
-date: 2016-02-24 22:48
+date: 2017-09-18 00:34
 image: /assets/images/markdown.jpg
 headerImage: false
 tag:
 - markdown
 - components
 - extra
-projects: true
 category: project
 author: jamesfoster
 description: Markdown summary with different options
