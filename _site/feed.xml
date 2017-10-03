@@ -5,183 +5,317 @@
     <description>Ishank Arora's homepage.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 18 Sep 2017 01:33:10 +0530</pubDate>
-    <lastBuildDate>Mon, 18 Sep 2017 01:33:10 +0530</lastBuildDate>
+    <pubDate>Tue, 03 Oct 2017 13:16:55 +0530</pubDate>
+    <lastBuildDate>Tue, 03 Oct 2017 13:16:55 +0530</lastBuildDate>
     <generator>Jekyll v3.5.2</generator>
     
       <item>
         <title>Academics</title>
-        <description>&lt;h2 id=&quot;summary&quot;&gt;Summary:&lt;/h2&gt;
+        <description>&lt;head&gt;
+&lt;meta http-equiv=&quot;content-type&quot; content=&quot;text/html; charset=UTF-8&quot; /&gt;
+  &lt;meta charset=&quot;utf-8&quot; /&gt;
+  &lt;meta http-equiv=&quot;X-UA-Compatible&quot; content=&quot;IE=edge&quot; /&gt;
+  &lt;meta name=&quot;viewport&quot; content=&quot;width=device-width, initial-scale=1&quot; /&gt;
 
-&lt;p&gt;You can pick as item to see how to apply in markdown.&lt;/p&gt;
+  &lt;title&gt;Jekyll Resume Template&lt;/title&gt;
 
-&lt;h4 id=&quot;especial-elements&quot;&gt;Especial Elements&lt;/h4&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;#evidence&quot;&gt;Evidence&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#side-by-side&quot;&gt;Side-by-Side&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#star&quot;&gt;Star&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#especial-breaker&quot;&gt;Especial Breaker&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#spoiler&quot;&gt;Spoiler&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
+  &lt;!-- Google font typography settings - defined in _config.yml --&gt;
+  
+  &lt;link href=&quot;css.css&quot; rel=&quot;stylesheet&quot; type=&quot;text/css&quot; /&gt;
+  
 
-&lt;h4 id=&quot;external-elements&quot;&gt;External Elements&lt;/h4&gt;
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;#gist&quot;&gt;Gist&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#codepen&quot;&gt;Codepen&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#slideshare&quot;&gt;Slideshare&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#videos&quot;&gt;Videos&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
+  &lt;meta name=&quot;description&quot; content=&quot;A resume template for Jekyll and GitHub Pages sites.&quot; /&gt;
 
-&lt;hr /&gt;
+  &lt;link rel=&quot;stylesheet&quot; href=&quot;main.css&quot; /&gt;
+  &lt;link rel=&quot;canonical&quot; href=&quot;http://resume-template.joelglovier.com/&quot; /&gt;
+  &lt;link rel=&quot;icon&quot; type=&quot;image/x-icon&quot; href=&quot;http://resume-template.joelglovier.com/favicon.png&quot; /&gt;
+&lt;/head&gt;
 
-&lt;h2 id=&quot;evidence&quot;&gt;Evidence&lt;/h2&gt;
+&lt;body class=&quot;theme-default&quot; data-gr-c-s-loaded=&quot;true&quot;&gt;
 
-&lt;p&gt;You can try the evidence!&lt;/p&gt;
 
-&lt;p&gt;&lt;span class=&quot;evidence&quot;&gt;Paragraphs can be written like so. A paragraph is the basic block of Markdown. A paragraph is what text will turn into when there is no reason it should become anything else.&lt;/span&gt;&lt;/p&gt;
+    &lt;div class=&quot;wrapper&quot; itemscope=&quot;&quot; itemtype=&quot;http://schema.org/Person&quot;&gt;
+      &lt;meta itemprop=&quot;telephone&quot; content=&quot;555-7334&quot; /&gt;
+      &lt;meta itemprop=&quot;address&quot; content=&quot;742 Evergreen Terrace, Springfield&quot; /&gt;
 
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;span&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;evidence&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;Paragraphs can be written like so. A paragraph is the basic block of Markdown. A paragraph is what text will turn into when there is no reason it should become anything else.&lt;span class=&quot;nt&quot;&gt;&amp;lt;/span&amp;gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+      &lt;header class=&quot;page-header&quot;&gt;
 
-&lt;hr /&gt;
+      
+              
+      &lt;!-- begin Education --&gt;
+      &lt;section class=&quot;content-section&quot;&gt;
 
-&lt;h2 id=&quot;side-by-side&quot;&gt;Side-by-side&lt;/h2&gt;
+        &lt;header class=&quot;section-header&quot;&gt;
+          &lt;h2 style=&quot;font-size:25px&quot;&gt;Education&lt;/h2&gt;
+        &lt;/header&gt;
 
-&lt;p&gt;Like the &lt;a href=&quot;https://medium.com/&quot;&gt;Medium&lt;/a&gt; component.&lt;/p&gt;
+        
+        &lt;div class=&quot;resume-item&quot; itemscope=&quot;&quot; itemprop=&quot;worksFor&quot; itemtype=&quot;http://schema.org/Organization&quot;&gt;
+          &lt;h3 class=&quot;resume-item-title&quot; itemprop=&quot;name&quot; style=&quot;font-size:20px&quot;&gt;Indian Institute of Technology (BHU) Varanasi&lt;/h3&gt;
+          &lt;h4 class=&quot;resume-item-details&quot; itemprop=&quot;description&quot; style=&quot;font-size:15px&quot;&gt;July 2014 — Present&lt;/h4&gt;
+          &lt;p class=&quot;resume-item-copy&quot;&gt;Integrated Dual Degree (B.Tech + M.Tech) in Computer Science and Engineering.&lt;br /&gt;
+          Current GPA: &lt;strong&gt;9.74/10&lt;/strong&gt;.&lt;/p&gt;
+        &lt;/div&gt;&lt;!-- end of resume-item --&gt;
 
-&lt;p&gt;&lt;strong&gt;Image&lt;/strong&gt; on the left and &lt;strong&gt;Text&lt;/strong&gt; on the right:&lt;/p&gt;
+        &lt;div class=&quot;resume-item&quot; itemscope=&quot;&quot; itemprop=&quot;worksFor&quot; itemtype=&quot;http://schema.org/Organization&quot;&gt;
+          &lt;h3 class=&quot;resume-item-title&quot; itemprop=&quot;name&quot; style=&quot;font-size:20px&quot;&gt;Delhi Public School Rohini, Delhi&lt;/h3&gt;
+          &lt;h4 class=&quot;resume-item-details&quot; itemprop=&quot;description&quot; style=&quot;font-size:15px&quot;&gt;2014&lt;/h4&gt;
+          &lt;p class=&quot;resume-item-copy&quot;&gt;All India Senior School Certificate Examination under the aegis of the Central Board of Secondary Education.&lt;br /&gt;
+          Score: &lt;strong&gt;98%&lt;/strong&gt;.&lt;/p&gt;
+        &lt;/div&gt;&lt;!-- end of resume-item --&gt;
 
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;div&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;side-by-side&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
-    &lt;span class=&quot;nt&quot;&gt;&amp;lt;div&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;toleft&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
-        &lt;span class=&quot;nt&quot;&gt;&amp;lt;img&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;image&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;src=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;http://localhost:4000/assets/images/profile.jpg&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;alt=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;Alt Text&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
-        &lt;span class=&quot;nt&quot;&gt;&amp;lt;figcaption&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;caption&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;Photo by John Doe&lt;span class=&quot;nt&quot;&gt;&amp;lt;/figcaption&amp;gt;&lt;/span&gt;
-    &lt;span class=&quot;nt&quot;&gt;&amp;lt;/div&amp;gt;&lt;/span&gt;
+        &lt;div class=&quot;resume-item&quot; itemscope=&quot;&quot; itemprop=&quot;worksFor&quot; itemtype=&quot;http://schema.org/Organization&quot;&gt;
+          &lt;h3 class=&quot;resume-item-title&quot; itemprop=&quot;name&quot; style=&quot;font-size:20px&quot;&gt;Delhi Public School, Agra&lt;/h3&gt;
+          &lt;h4 class=&quot;resume-item-details&quot; itemprop=&quot;description&quot; style=&quot;font-size:15px&quot;&gt;2012&lt;/h4&gt;
+          &lt;p class=&quot;resume-item-copy&quot;&gt;All India Secondary School Examination under the aegis of the Central Board of Secondary Education.&lt;br /&gt;
+          CGPA: &lt;strong&gt;10/10&lt;/strong&gt;.&lt;/p&gt;
+        &lt;/div&gt;&lt;!-- end of resume-item --&gt;
+        
 
-    &lt;span class=&quot;nt&quot;&gt;&amp;lt;div&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;toright&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
-        &lt;span class=&quot;nt&quot;&gt;&amp;lt;p&amp;gt;&lt;/span&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;span class=&quot;nt&quot;&gt;&amp;lt;/p&amp;gt;&lt;/span&gt;
-    &lt;span class=&quot;nt&quot;&gt;&amp;lt;/div&amp;gt;&lt;/span&gt;
-&lt;span class=&quot;nt&quot;&gt;&amp;lt;/div&amp;gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+      &lt;/section&gt;
+      &lt;!-- end Education --&gt;
+      
 
-&lt;div class=&quot;side-by-side&quot;&gt;
-    &lt;div class=&quot;toleft&quot;&gt;
-        &lt;img class=&quot;image&quot; src=&quot;http://localhost:4000/assets/images/profile.jpg&quot; alt=&quot;Alt Text&quot; /&gt;
-        &lt;figcaption class=&quot;caption&quot;&gt;Photo by John Doe&lt;/figcaption&gt;
-    &lt;/div&gt;
 
-    &lt;div class=&quot;toright&quot;&gt;
-        &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
-    &lt;/div&gt;
-&lt;/div&gt;
+      
+      &lt;!-- begin Internships --&gt;
+      &lt;section class=&quot;content-section&quot;&gt;
+        &lt;header class=&quot;section-header&quot;&gt;
+          &lt;h2 style=&quot;font-size:25px&quot;&gt;Internships&lt;/h2&gt;
+        &lt;/header&gt;
 
-&lt;p&gt;&lt;strong&gt;Text&lt;/strong&gt; on the left and &lt;strong&gt;Image&lt;/strong&gt; on the right:&lt;/p&gt;
+        
+        &lt;div class=&quot;resume-item&quot; itemscope=&quot;&quot; itemprop=&quot;alumniOf&quot; itemtype=&quot;http://schema.org/CollegeOrUniversity&quot;&gt;
+          &lt;h3 class=&quot;resume-item-title&quot; itemprop=&quot;name&quot; style=&quot;font-size:20px&quot;&gt;Nutanix Inc.&lt;/h3&gt;
+          &lt;h4 class=&quot;resume-item-details group&quot; itemprop=&quot;description&quot; style=&quot;font-size:15px&quot;&gt;May - July 2017&lt;/h4&gt;
+          &lt;h5 class=&quot;resume-item-details award-title&quot; itemprop=&quot;description&quot; style=&quot;font-size:15px&quot;&gt;Software Developer Intern&lt;/h5&gt;
+          &lt;p class=&quot;resume-item-copy&quot;&gt;Worked with the Stargate team on the development and automation of QoS Phase-II which implements user policies for VMs and Volume Groups through multiple interfaces. Also integrated the Undefined Behavior Sanitizer (UBSan) for GCC for catching bugs related to integer overflows and misaligned pointers at runtime.&lt;/p&gt;
+        &lt;/div&gt;
 
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;div&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;side-by-side&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
-    &lt;span class=&quot;nt&quot;&gt;&amp;lt;div&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;toleft&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
-        &lt;span class=&quot;nt&quot;&gt;&amp;lt;p&amp;gt;&lt;/span&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;span class=&quot;nt&quot;&gt;&amp;lt;/p&amp;gt;&lt;/span&gt;
-    &lt;span class=&quot;nt&quot;&gt;&amp;lt;/div&amp;gt;&lt;/span&gt;
+        &lt;div class=&quot;resume-item&quot; itemscope=&quot;&quot; itemprop=&quot;alumniOf&quot; itemtype=&quot;http://schema.org/CollegeOrUniversity&quot;&gt;
+          &lt;h3 class=&quot;resume-item-title&quot; itemprop=&quot;name&quot; style=&quot;font-size:20px&quot;&gt;Scientific Analysis Group, Defence Research and Development Organization&lt;/h3&gt;
+          &lt;h4 class=&quot;resume-item-details group&quot; itemprop=&quot;description&quot; style=&quot;font-size:15px&quot;&gt;May - July 2016&lt;/h4&gt;
+          &lt;h5 class=&quot;resume-item-details award-title&quot; itemprop=&quot;description&quot; style=&quot;font-size:15px&quot;&gt;Swarm Intelligence Research Intern&lt;/h5&gt;
+          &lt;p class=&quot;resume-item-copy&quot;&gt;Worked under Dr. S. K. Pal to implement hybrid and binary versions of nature inspired swarm optimization algorithms, Artificial Bee Colony, Firefly algorithm, etc. for solving NP and NP Hard problems such as Integer Factorization and the Set Covering Problem. Explored the possibility of developing better versions of the algorithms by coupling with a combination of genetic and differential evolution techniques and introduction of new control parameters.&lt;/p&gt;
+        &lt;/div&gt;
+        
+      &lt;/section&gt;
+      &lt;!-- end Internships --&gt;
+      
+      &lt;!-- begin Publications --&gt;
+      &lt;section class=&quot;content-section&quot;&gt;
 
-    &lt;span class=&quot;nt&quot;&gt;&amp;lt;div&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;toright&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
-        &lt;span class=&quot;nt&quot;&gt;&amp;lt;img&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;image&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;src=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;http://localhost:4000/assets/images/profile.jpg&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;alt=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;Alt Text&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
-        &lt;span class=&quot;nt&quot;&gt;&amp;lt;figcaption&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;caption&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;Photo by John Doe&lt;span class=&quot;nt&quot;&gt;&amp;lt;/figcaption&amp;gt;&lt;/span&gt;
-    &lt;span class=&quot;nt&quot;&gt;&amp;lt;/div&amp;gt;&lt;/span&gt;
-&lt;span class=&quot;nt&quot;&gt;&amp;lt;/div&amp;gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+        &lt;header class=&quot;section-header&quot;&gt;
+          &lt;h2 style=&quot;font-size:25px&quot;&gt;Publications&lt;/h2&gt;
+        &lt;/header&gt;
 
-&lt;div class=&quot;side-by-side&quot;&gt;
-    &lt;div class=&quot;toleft&quot;&gt;
-        &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;
-    &lt;/div&gt;
+        &lt;div class=&quot;resume-item&quot;&gt;
+          &lt;ul class=&quot;resume-item-list&quot;&gt;
+            
+            &lt;li&gt;Ishank Arora, Anant Dadu, Mridula Verma, K. K. Shukla, ”Random Projections of Fischer Linear Discriminant Classifier for Multi-Class Classification”, in proceedings of the 4th International Symposium on Computational and Business Intelligence, September 2016, Olten, Switzerland.&lt;/li&gt;
+            
+          &lt;/ul&gt;
+        &lt;/div&gt;
 
-    &lt;div class=&quot;toright&quot;&gt;
-        &lt;img class=&quot;image&quot; src=&quot;http://localhost:4000/assets/images/profile.jpg&quot; alt=&quot;Alt Text&quot; /&gt;
-        &lt;figcaption class=&quot;caption&quot;&gt;Photo by John Doe&lt;/figcaption&gt;
-    &lt;/div&gt;
-&lt;/div&gt;
+      &lt;/section&gt;
+      &lt;!-- end Publications --&gt;
 
-&lt;hr /&gt;
+      
+      &lt;!-- begin Projects --&gt;
+      &lt;section class=&quot;content-section&quot;&gt;
+        &lt;header class=&quot;section-header&quot;&gt;
+          &lt;h2 style=&quot;font-size:25px&quot;&gt;Research Projects&lt;/h2&gt;
+        &lt;/header&gt;
 
-&lt;h2 id=&quot;star&quot;&gt;Star&lt;/h2&gt;
+        
+        &lt;div class=&quot;resume-item&quot; itemscope=&quot;&quot; itemprop=&quot;alumniOf&quot; itemtype=&quot;http://schema.org/CollegeOrUniversity&quot;&gt;
+          &lt;h3 class=&quot;resume-item-title&quot; itemprop=&quot;name&quot; style=&quot;font-size:20px&quot;&gt;Proof of Convergence for a two stage Crossover for Multiobjective Optimization&lt;/h3&gt;
+          &lt;h4 class=&quot;resume-item-details group&quot; itemprop=&quot;description&quot; style=&quot;font-size:15px&quot;&gt;January - April 2017&lt;/h4&gt;
+          &lt;h5 class=&quot;resume-item-details award-title&quot; itemprop=&quot;description&quot; style=&quot;font-size:15px&quot;&gt;Guide: Prof. K. K. Shukla, IIT (BHU) Varanasi&lt;/h5&gt;
+          &lt;p class=&quot;resume-item-copy&quot;&gt;Implemented a two-stage crossover (TSX) operator for more efficient exploration of the search space and analyzed for assumptions and situations where the operator can be guaranteed to converge to a global optimum. Analyzed the polynomial probability distributions involved and proposed a comprehensive proof, through the use of homogeneous finite Markov chains, that the operator maintains an elitist population obeying Holland’s Schema Theorem and hence can be guaranteed to converge.&lt;/p&gt;
+        &lt;/div&gt;
 
-&lt;p&gt;You can give evidence to a post. Just add the tag to the markdown file.&lt;/p&gt;
+        &lt;div class=&quot;resume-item&quot; itemscope=&quot;&quot; itemprop=&quot;alumniOf&quot; itemtype=&quot;http://schema.org/CollegeOrUniversity&quot;&gt;
+          &lt;h3 class=&quot;resume-item-title&quot; itemprop=&quot;name&quot; style=&quot;font-size:20px&quot;&gt;AGD based algorithm for datasets with overlapping group structure&lt;/h3&gt;
+          &lt;h4 class=&quot;resume-item-details group&quot; itemprop=&quot;description&quot; style=&quot;font-size:15px&quot;&gt;January - April 2016&lt;/h4&gt;
+          &lt;h5 class=&quot;resume-item-details award-title&quot; itemprop=&quot;description&quot; style=&quot;font-size:15px&quot;&gt;Guide: Prof. K. K. Shukla, IIT (BHU) Varanasi&lt;/h5&gt;
+          &lt;p class=&quot;resume-item-copy&quot;&gt;The extension of the group lasso feature selection involving overlapping groups presents multiple challenges in optimizing the choice of appropriate features. Implemented an algorithm for calculating the proximal operator associated with the group lasso penalty using Accelerated Gradient Descent(AGD).&lt;/p&gt;
+        &lt;/div&gt;
 
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-raw&quot; data-lang=&quot;raw&quot;&gt;star: true&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+        &lt;div class=&quot;resume-item&quot; itemscope=&quot;&quot; itemprop=&quot;alumniOf&quot; itemtype=&quot;http://schema.org/CollegeOrUniversity&quot;&gt;
+          &lt;h3 class=&quot;resume-item-title&quot; itemprop=&quot;name&quot; style=&quot;font-size:20px&quot;&gt;Proof of Convergence for a two stage Crossover for Multiobjective Optimization&lt;/h3&gt;
+          &lt;h4 class=&quot;resume-item-details group&quot; itemprop=&quot;description&quot; style=&quot;font-size:15px&quot;&gt;August - November 2015&lt;/h4&gt;
+          &lt;h5 class=&quot;resume-item-details award-title&quot; itemprop=&quot;description&quot; style=&quot;font-size:15px&quot;&gt;Guide: Prof. K. K. Shukla, IIT (BHU) Varanasi&lt;/h5&gt;
+          &lt;p class=&quot;resume-item-copy&quot;&gt;For datasets with fewer samples than dimensions, discriminant classifiers provide poor results due to non-invertibility of the covariance matrices. Employed an ensemble of random projections of Fischer Linear Discriminant classifiers to perform multiclass classification for datasets having the aforementioned setting and extended the generalization error bounds.&lt;/p&gt;
+        &lt;/div&gt;
+        
 
-&lt;hr /&gt;
+      &lt;/section&gt;
+      &lt;!-- end Projects --&gt;
 
-&lt;h2 id=&quot;especial-breaker&quot;&gt;Especial Breaker&lt;/h2&gt;
 
-&lt;p&gt;You can add a especial &lt;em&gt;hr&lt;/em&gt; to your text.&lt;/p&gt;
+      &lt;!-- begin Software Projects --&gt;
+      &lt;section class=&quot;content-section&quot;&gt;
 
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;div&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;breaker&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&amp;lt;/div&amp;gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+        &lt;header class=&quot;section-header&quot;&gt;
+          &lt;h2 style=&quot;font-size:25px&quot;&gt;Software Projects&lt;/h2&gt;
+        &lt;/header&gt;
 
-&lt;div class=&quot;breaker&quot;&gt;&lt;/div&gt;
+        
+        &lt;div class=&quot;resume-item&quot; itemscope=&quot;&quot; itemprop=&quot;worksFor&quot; itemtype=&quot;http://schema.org/Organization&quot;&gt;
+          &lt;h3 class=&quot;resume-item-title&quot; itemprop=&quot;name&quot; style=&quot;font-size:20px&quot;&gt;&lt;a href=&quot;https://github.com/ishank011/Health-Keep&quot; target=&quot;_blank&quot;&gt;Health-Keep&lt;/a&gt;&lt;/h3&gt;
+          &lt;h4 class=&quot;resume-item-details&quot; itemprop=&quot;description&quot; style=&quot;font-size:15px&quot;&gt;February 2017&lt;/h4&gt;
+          &lt;p class=&quot;resume-item-copy&quot;&gt;n android application which notifies the user of the diseases spreading in their locality and precautionary measures to be taken, by forming clusters of the reported cases and testing whether the user’s location lies in any of the clusters through various heuristics, using data supplied by doctors and hospitals to report cases.&lt;/p&gt;
+        &lt;/div&gt;&lt;!-- end of resume-item --&gt;
 
-&lt;hr /&gt;
+        &lt;div class=&quot;resume-item&quot; itemscope=&quot;&quot; itemprop=&quot;worksFor&quot; itemtype=&quot;http://schema.org/Organization&quot;&gt;
+          &lt;h3 class=&quot;resume-item-title&quot; itemprop=&quot;name&quot; style=&quot;font-size:20px&quot;&gt;&lt;a href=&quot;https://github.com/ishank011/Relational-Algebra-Implementation&quot; target=&quot;_blank&quot;&gt;Relational Algebra implementation in C++&lt;/a&gt;&lt;/h3&gt;
+          &lt;h4 class=&quot;resume-item-details&quot; itemprop=&quot;description&quot; style=&quot;font-size:15px&quot;&gt;October 2016&lt;/h4&gt;
+          &lt;p class=&quot;resume-item-copy&quot;&gt;Implemented the procedural query language, which operates on relations using some specified operators, such as select, project, cartesian product, join and aggregate operations to answer user-defined queries.&lt;/p&gt;
+        &lt;/div&gt;&lt;!-- end of resume-item --&gt;
 
-&lt;h2 id=&quot;spoiler&quot;&gt;Spoiler&lt;/h2&gt;
+        &lt;div class=&quot;resume-item&quot; itemscope=&quot;&quot; itemprop=&quot;worksFor&quot; itemtype=&quot;http://schema.org/Organization&quot;&gt;
+          &lt;h3 class=&quot;resume-item-title&quot; itemprop=&quot;name&quot; style=&quot;font-size:20px&quot;&gt;Live Gesture Recognition&lt;/h3&gt;
+          &lt;h4 class=&quot;resume-item-details&quot; itemprop=&quot;description&quot; style=&quot;font-size:15px&quot;&gt;April 2016&lt;/h4&gt;
+          &lt;p class=&quot;resume-item-copy&quot;&gt;An application to detect the arm gestures of the subject using the gyroscope sensors in android phones and multi-layer Artificial Neural Networks, implemented through socket programming.&lt;/p&gt;
+        &lt;/div&gt;&lt;!-- end of resume-item --&gt;
 
-&lt;p&gt;You can add an especial hidden content that appears on hover.&lt;/p&gt;
+        &lt;div class=&quot;resume-item&quot; itemscope=&quot;&quot; itemprop=&quot;worksFor&quot; itemtype=&quot;http://schema.org/Organization&quot;&gt;
+          &lt;h3 class=&quot;resume-item-title&quot; itemprop=&quot;name&quot; style=&quot;font-size:20px&quot;&gt;&lt;a href=&quot;https://github.com/ishank011/OpenDataAPI&quot; target=&quot;_blank&quot;&gt;REST API for Health Prediction&lt;/a&gt;&lt;/h3&gt;
+          &lt;h4 class=&quot;resume-item-details&quot; itemprop=&quot;description&quot; style=&quot;font-size:15px&quot;&gt;March 2016&lt;/h4&gt;
+          &lt;p class=&quot;resume-item-copy&quot;&gt;Built an API in Python to predict the risk factor of diabetes in pregnant women, as well as the chance of mortality in patients admitted to ICU using an ensemble of Fischer Linear Discriminant Classifiers, Support Vector Machines and Random Forest Classifiers.&lt;/p&gt;
+        &lt;/div&gt;&lt;!-- end of resume-item --&gt;
 
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;div&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;spoiler&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&amp;lt;p&amp;gt;&lt;/span&gt;your content&lt;span class=&quot;nt&quot;&gt;&amp;lt;/p&amp;gt;&amp;lt;/div&amp;gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+        &lt;div class=&quot;resume-item&quot; itemscope=&quot;&quot; itemprop=&quot;worksFor&quot; itemtype=&quot;http://schema.org/Organization&quot;&gt;
+          &lt;h3 class=&quot;resume-item-title&quot; itemprop=&quot;name&quot; style=&quot;font-size:20px&quot;&gt;&lt;a href=&quot;http://www.codefest.tech&quot; target=&quot;_blank&quot;&gt;Web Development, Codefest'16&lt;/a&gt;&lt;/h3&gt;
+          &lt;h4 class=&quot;resume-item-details&quot; itemprop=&quot;description&quot; style=&quot;font-size:15px&quot;&gt;February 2016&lt;/h4&gt;
+          &lt;p class=&quot;resume-item-copy&quot;&gt;Developed the website and registration portal for Codefest 2016, the annual fest of the Department of Computer Science and Engineering, IIT BHU. The back-end was developed in Django. The website had over 100,000 views and 5000 registrations from 96 countries.&lt;/p&gt;
+        &lt;/div&gt;&lt;!-- end of resume-item --&gt;
 
-&lt;div class=&quot;spoiler&quot;&gt;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&lt;/p&gt;&lt;/div&gt;
+        &lt;div class=&quot;resume-item&quot; itemscope=&quot;&quot; itemprop=&quot;worksFor&quot; itemtype=&quot;http://schema.org/Organization&quot;&gt;
+          &lt;h3 class=&quot;resume-item-title&quot; itemprop=&quot;name&quot; style=&quot;font-size:20px&quot;&gt;&lt;a href=&quot;https://github.com/ishank011/Nine-Mens-Morris&quot; target=&quot;_blank&quot;&gt;Nine Men’s Morris for Windows Store&lt;/a&gt;&lt;/h3&gt;
+          &lt;h4 class=&quot;resume-item-details&quot; itemprop=&quot;description&quot; style=&quot;font-size:15px&quot;&gt;November 2015&lt;/h4&gt;
+          &lt;p class=&quot;resume-item-copy&quot;&gt;Developed the single player as well as the two-player implementation of Nine Men’s Morris board game for Windows 10 using extensive AI through Alpha-Beta Pruning.&lt;/p&gt;
+        &lt;/div&gt;&lt;!-- end of resume-item --&gt;
 
-&lt;hr /&gt;
+        &lt;div class=&quot;resume-item&quot; itemscope=&quot;&quot; itemprop=&quot;worksFor&quot; itemtype=&quot;http://schema.org/Organization&quot;&gt;
+          &lt;h3 class=&quot;resume-item-title&quot; itemprop=&quot;name&quot; style=&quot;font-size:20px&quot;&gt;&lt;a href=&quot;https://github.com/ishank011/graphing-and-plotting-assignment&quot; target=&quot;_blank&quot;&gt;Numerical Algorithms in Python&lt;/a&gt;&lt;/h3&gt;
+          &lt;h4 class=&quot;resume-item-details&quot; itemprop=&quot;description&quot; style=&quot;font-size:15px&quot;&gt;March 2015&lt;/h4&gt;
+          &lt;p class=&quot;resume-item-copy&quot;&gt;A web application to implement and illustrate through animations Linear system solvers - Gauss-Jordan eliminations and Gauss-Siedel method; Polynomial solvers - Secant Regula-Falsi and Newton-Raphson; and Lagrange’s method of interpolation.&lt;/p&gt;
+        &lt;/div&gt;&lt;!-- end of resume-item --&gt;
+        
 
-&lt;h2 id=&quot;gist&quot;&gt;Gist&lt;/h2&gt;
+      &lt;/section&gt;
+      &lt;!-- end Software Projects --&gt;
+      
 
-&lt;p&gt;You can add Gists from github.&lt;/p&gt;
+      
+      &lt;!-- begin Teaching Experience --&gt;
+      &lt;section class=&quot;content-section&quot;&gt;
 
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-raw&quot; data-lang=&quot;raw&quot;&gt;{ % gist sergiokopplin/91ff4220480727b47224245ee2e9c291 % }&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+        &lt;header class=&quot;section-header&quot;&gt;
+          &lt;h2 style=&quot;font-size:25px&quot;&gt;Teaching Experience&lt;/h2&gt;
+        &lt;/header&gt;
+        
+        &lt;div class=&quot;resume-item&quot; itemscope=&quot;&quot; itemprop=&quot;alumniOf&quot; itemtype=&quot;http://schema.org/CollegeOrUniversity&quot;&gt;
+          &lt;h3 class=&quot;resume-item-title&quot; itemprop=&quot;name&quot; style=&quot;font-size:20px&quot;&gt;Teaching Assistant, CSO-101: Introduction to Computer Programming and Linux&lt;/h3&gt;
+          &lt;h4 class=&quot;resume-item-details group&quot; itemprop=&quot;description&quot; style=&quot;font-size:15px&quot;&gt;Fall semester, 2016 and Spring semester, 2017&lt;/h4&gt;
+          &lt;p class=&quot;resume-item-copy&quot;&gt;Responsibilities included taking laboratory and tutorial sessions for the students, and setting assignment and lab exam problems.&lt;/p&gt;
+        &lt;/div&gt;       
 
-&lt;noscript&gt;&lt;pre&gt;&amp;lt;!DOCTYPE html&amp;gt;
-&amp;lt;html lang=&amp;quot;en&amp;quot;&amp;gt;
-&amp;lt;head&amp;gt;
-    &amp;lt;meta charset=&amp;quot;UTF-8&amp;quot;&amp;gt;
-    &amp;lt;title&amp;gt;Just a Test!&amp;lt;/title&amp;gt;
-&amp;lt;/head&amp;gt;
-&amp;lt;body&amp;gt;
-  &amp;lt;h1&amp;gt;Working!&amp;lt;/h1&amp;gt;
-&amp;lt;/body&amp;gt;
-&amp;lt;/html&amp;gt;&lt;/pre&gt;&lt;/noscript&gt;
-&lt;script src=&quot;https://gist.github.com/sergiokopplin/91ff4220480727b47224245ee2e9c291.js&quot;&gt; &lt;/script&gt;
+      &lt;/section&gt;
+      &lt;!-- end Teaching Experience --&gt;
+      
+      &lt;!-- begin PORs --&gt;
+      &lt;section class=&quot;content-section&quot;&gt;
+        &lt;header class=&quot;section-header&quot;&gt;
+          &lt;h2 style=&quot;font-size:25px&quot;&gt;Positions of Responsibility&lt;/h2&gt;
+        &lt;/header&gt;
 
-&lt;hr /&gt;
+        
+        &lt;div class=&quot;resume-item&quot; itemscope=&quot;&quot; itemprop=&quot;alumniOf&quot; itemtype=&quot;http://schema.org/CollegeOrUniversity&quot;&gt;
+          &lt;h3 class=&quot;resume-item-title&quot; itemprop=&quot;name&quot; style=&quot;font-size:15px&quot;&gt;• Convener, Codefest 2017, the annual festival of Computer Engineering Society, IIT (BHU) Varanasi. 2017&lt;/h3&gt;
+        &lt;/div&gt;
 
-&lt;h2 id=&quot;codepen&quot;&gt;Codepen&lt;/h2&gt;
+        &lt;div class=&quot;resume-item&quot; itemscope=&quot;&quot; itemprop=&quot;alumniOf&quot; itemtype=&quot;http://schema.org/CollegeOrUniversity&quot;&gt;
+          &lt;h3 class=&quot;resume-item-title&quot; itemprop=&quot;name&quot; style=&quot;font-size:15px&quot;&gt;• Joint Secretary, Club of Programmers, IIT (BHU) Varanasi. 2016-2017&lt;/h3&gt;
+        &lt;/div&gt;
 
-&lt;p&gt;You can add Pens from Codepen.&lt;/p&gt;
+        &lt;div class=&quot;resume-item&quot; itemscope=&quot;&quot; itemprop=&quot;alumniOf&quot; itemtype=&quot;http://schema.org/CollegeOrUniversity&quot;&gt;
+          &lt;h3 class=&quot;resume-item-title&quot; itemprop=&quot;name&quot; style=&quot;font-size:15px&quot;&gt;• Co-coordinator of A-Mazed, the autonomous grid-following robotics event of Technex 2016. 2016&lt;/h3&gt;
+        &lt;/div&gt;
 
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;p&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;data-height=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;268&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;data-theme-id=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;0&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;data-slug-hash=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;gfdDu&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;data-default-tab=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;result&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;data-user=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;chriscoyier&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'codepen'&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
-    See the Pen &lt;span class=&quot;nt&quot;&gt;&amp;lt;a&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;href=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'http://codepen.io/chriscoyier/pen/gfdDu/'&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;Crappy Recreation of the Book Cover of *The Flame Alphabet*&lt;span class=&quot;nt&quot;&gt;&amp;lt;/a&amp;gt;&lt;/span&gt; by Chris Coyier (&lt;span class=&quot;nt&quot;&gt;&amp;lt;a&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;href=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'http://codepen.io/chriscoyier'&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;@chriscoyier&lt;span class=&quot;nt&quot;&gt;&amp;lt;/a&amp;gt;&lt;/span&gt;) on &lt;span class=&quot;nt&quot;&gt;&amp;lt;a&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;href=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;'http://codepen.io'&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;CodePen&lt;span class=&quot;nt&quot;&gt;&amp;lt;/a&amp;gt;&lt;/span&gt;.
-&lt;span class=&quot;nt&quot;&gt;&amp;lt;/p&amp;gt;&lt;/span&gt;
-&lt;span class=&quot;nt&quot;&gt;&amp;lt;script &lt;/span&gt;&lt;span class=&quot;na&quot;&gt;async&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;src=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;//assets.codepen.io/assets/embed/ei.js&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&amp;lt;/script&amp;gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+        &lt;div class=&quot;resume-item&quot; itemscope=&quot;&quot; itemprop=&quot;alumniOf&quot; itemtype=&quot;http://schema.org/CollegeOrUniversity&quot;&gt;
+          &lt;h3 class=&quot;resume-item-title&quot; itemprop=&quot;name&quot; style=&quot;font-size:15px&quot;&gt;• Student Representative of the Department Undergraduate Committee (DUGC), Department of Computer Science and Engineering, IIT (BHU), Varanasi. 2015-2016&lt;/h3&gt;
+        &lt;/div&gt;
 
-&lt;p data-height=&quot;268&quot; data-theme-id=&quot;0&quot; data-slug-hash=&quot;gfdDu&quot; data-default-tab=&quot;result&quot; data-user=&quot;chriscoyier&quot; class=&quot;codepen&quot;&gt;See the Pen &lt;a href=&quot;http://codepen.io/chriscoyier/pen/gfdDu/&quot;&gt;Crappy Recreation of the Book Cover of *The Flame Alphabet*&lt;/a&gt; by Chris Coyier (&lt;a href=&quot;http://codepen.io/chriscoyier&quot;&gt;@chriscoyier&lt;/a&gt;) on &lt;a href=&quot;http://codepen.io&quot;&gt;CodePen&lt;/a&gt;.&lt;/p&gt;
-&lt;script async=&quot;&quot; src=&quot;//assets.codepen.io/assets/embed/ei.js&quot;&gt;&lt;/script&gt;
 
-&lt;hr /&gt;
+      &lt;/section&gt;
+      &lt;!-- end PORs --&gt;
+      
+      &lt;!-- begin Recognition --&gt;
+      &lt;section class=&quot;content-section&quot;&gt;
 
-&lt;h2 id=&quot;slideshare&quot;&gt;Slideshare&lt;/h2&gt;
+        &lt;header class=&quot;section-header&quot;&gt;
+          &lt;h2 style=&quot;font-size:25px&quot;&gt;Recognition&lt;/h2&gt;
+        &lt;/header&gt;
 
-&lt;p&gt;Add your presentations here!&lt;/p&gt;
+        
+        &lt;div class=&quot;resume-item&quot;&gt;
+          &lt;h3 class=&quot;resume-item-title&quot; itemprop=&quot;award&quot;&gt;Outstanding Achievement&lt;/h3&gt;
+          &lt;h4 class=&quot;resume-item-details&quot;&gt;Springfield Nuclear Power Plant • 2010&lt;/h4&gt;
+          &lt;p class=&quot;resume-item-copy&quot;&gt;Awarded for stopping a nuclear meltdown, even though I also started it.&lt;/p&gt;
+        &lt;/div&gt;
+        
+        &lt;div class=&quot;resume-item&quot;&gt;
+          &lt;h3 class=&quot;resume-item-title&quot; itemprop=&quot;award&quot;&gt;Duff Beer Customer of the year&lt;/h3&gt;
+          &lt;h4 class=&quot;resume-item-details&quot;&gt; • 1997 — 2001, 2003, 2008 — 2012&lt;/h4&gt;
+          &lt;p class=&quot;resume-item-copy&quot;&gt;Honored by &lt;a href=&quot;https://en.wikipedia.org/wiki/Duff_Beer&quot;&gt;Duff Beer&lt;/a&gt;
+ for being an outstanding customer several years straight. 
+Qualifications included most beer consumed at a bar, most beer 
+purchased, and most beer ralphed.&lt;/p&gt;
+        &lt;/div&gt;
+        
+        &lt;div class=&quot;resume-item&quot;&gt;
+          &lt;h3 class=&quot;resume-item-title&quot; itemprop=&quot;award&quot;&gt;Moe's Patron of the Month&lt;/h3&gt;
+          &lt;h4 class=&quot;resume-item-details&quot;&gt; • 12/2001, 8/2004&lt;/h4&gt;
+          &lt;p class=&quot;resume-item-copy&quot;&gt;Specifically this prestigious awarded twice for stopping a robber with my belly.&lt;/p&gt;
+        &lt;/div&gt;
+        
 
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;iframe&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;src=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;//www.slideshare.net/slideshow/embed_code/key/hqDhSJoWkrHe7l&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;width=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;560&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;height=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;310&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;frameborder=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;0&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;marginwidth=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;0&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;marginheight=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;0&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;scrolling=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;no&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;style=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;allowfullscreen&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt; &lt;span class=&quot;nt&quot;&gt;&amp;lt;/iframe&amp;gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+      &lt;/section&gt;
+      &lt;!-- end Recognition --&gt;
+      
 
-&lt;iframe src=&quot;//www.slideshare.net/slideshow/embed_code/key/hqDhSJoWkrHe7l&quot; width=&quot;560&quot; height=&quot;310&quot; frameborder=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; scrolling=&quot;no&quot; style=&quot;border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;&quot; allowfullscreen=&quot;&quot;&gt; &lt;/iframe&gt;
+      
+      &lt;!-- begin Associations --&gt;
+      &lt;section class=&quot;content-section&quot;&gt;
 
-&lt;hr /&gt;
+        &lt;header class=&quot;section-header&quot;&gt;
+          &lt;h2 style=&quot;font-size:25px&quot;&gt;Associations&lt;/h2&gt;
+        &lt;/header&gt;
 
-&lt;h2 id=&quot;videos&quot;&gt;Videos&lt;/h2&gt;
+        
+        &lt;div class=&quot;resume-item&quot; itemscope=&quot;&quot; itemprop=&quot;memberOf&quot; itemtype=&quot;http://schema.org/Organization&quot;&gt;
+          &lt;h3 class=&quot;resume-item-title&quot; itemprop=&quot;name&quot;&gt;&lt;a href=&quot;http://beerfortheworld.com/&quot;&gt;Beer for the World&lt;/a&gt;&lt;/h3&gt;
+          &lt;h4 class=&quot;resume-item-details&quot; itemprop=&quot;description&quot;&gt;Volunteer • 2008 — Present&lt;/h4&gt;
+          &lt;p class=&quot;resume-item-copy&quot;&gt;Organized fund drives and 
+participated in fundraising events for the benefit of families in third 
+world countries without proper access to malt beverages.&lt;/p&gt;
+        &lt;/div&gt;
+        
+        &lt;div class=&quot;resume-item&quot; itemscope=&quot;&quot; itemprop=&quot;memberOf&quot; itemtype=&quot;http://schema.org/Organization&quot;&gt;
+          &lt;h3 class=&quot;resume-item-title&quot; itemprop=&quot;name&quot;&gt;&lt;a href=&quot;http://snwlu.org/&quot;&gt;Springfield Nuclear Workers Labor Union&lt;/a&gt;&lt;/h3&gt;
+          &lt;h4 class=&quot;resume-item-details&quot; itemprop=&quot;description&quot;&gt;Member in Good Standing • 1994 — Present&lt;/h4&gt;
+          &lt;p class=&quot;resume-item-copy&quot;&gt;Founding member of the local nuclear workers labor union.&lt;/p&gt;
+        &lt;/div&gt;
+        
 
-&lt;p&gt;Do you want some videos? Youtube, Vimeo or Vevo? Copy the embed code and paste on your post!&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Example&lt;/strong&gt;&lt;/p&gt;
-
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-html&quot; data-lang=&quot;html&quot;&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;iframe&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;width=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;560&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;height=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;310&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;src=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;https://www.youtube.com/embed/r7XhWUDj-Ts&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;frameborder=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;0&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;allowfullscreen&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&amp;lt;/iframe&amp;gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
-
-&lt;iframe width=&quot;560&quot; height=&quot;310&quot; src=&quot;https://www.youtube.com/embed/r7XhWUDj-Ts&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
+      &lt;/section&gt;
+      &lt;!-- end Associations --&gt;
+&lt;/header&gt;&lt;/div&gt;&lt;/body&gt;
 </description>
-        <pubDate>Mon, 18 Sep 2017 00:34:00 +0530</pubDate>
+        <pubDate>Mon, 18 Sep 2017 01:51:00 +0530</pubDate>
         <link>http://localhost:4000/academics/</link>
         <guid isPermaLink="true">http://localhost:4000/academics/</guid>
         
@@ -192,7 +326,7 @@
         <category>extra</category>
         
         
-        <category>project</category>
+        <category>blog</category>
         
       </item>
     

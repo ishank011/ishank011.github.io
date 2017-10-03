@@ -10,7 +10,7 @@ tag:
 - extra
 projects: true
 category: project
-author: jamesfoster
+author: ishankarora
 description: Markdown summary with different options
 # jemoji: '<img class="emoji" title=":ramen:" alt=":ramen:" src="https://assets.github.com/images/icons/emoji/unicode/1f35c.png" height="20" width="20" align="absmiddle">'
 ---
