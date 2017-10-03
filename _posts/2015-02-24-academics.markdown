@@ -237,19 +237,19 @@ description: Markdown summary with different options
 
         
         <div class="resume-item" itemscope="" itemprop="alumniOf" itemtype="http://schema.org/CollegeOrUniversity">
-          <h3 class="resume-item-title" itemprop="name"  style="font-size:15px">• Convener, Codefest 2017, the annual festival of Computer Engineering Society, IIT (BHU) Varanasi. 2017</h3>
+          <p class="resume-item-copy" style="font-size:15px">• <strong>Convener, Codefest 2017</strong>, the annual festival of Computer Engineering Society, IIT (BHU) Varanasi. 2017</p>
         </div>
 
         <div class="resume-item" itemscope="" itemprop="alumniOf" itemtype="http://schema.org/CollegeOrUniversity">
-          <h3 class="resume-item-title" itemprop="name"  style="font-size:15px">• Joint Secretary, Club of Programmers, IIT (BHU) Varanasi. 2016-2017</h3>
+          <p class="resume-item-copy" style="font-size:15px">• <strong>Joint Secretary, Club of Programmers</strong>, IIT (BHU) Varanasi. 2016-2017</p>
         </div>
 
         <div class="resume-item" itemscope="" itemprop="alumniOf" itemtype="http://schema.org/CollegeOrUniversity">
-          <h3 class="resume-item-title" itemprop="name"  style="font-size:15px">• Co-coordinator of A-Mazed, the autonomous grid-following robotics event of Technex 2016. 2016</h3>
+          <p class="resume-item-copy" style="font-size:15px">• <strong>Co-coordinator of A-Mazed</strong>, the autonomous grid-following robotics event of Technex 2016. 2016</p>
         </div>
 
         <div class="resume-item" itemscope="" itemprop="alumniOf" itemtype="http://schema.org/CollegeOrUniversity">
-          <h3 class="resume-item-title" itemprop="name"  style="font-size:15px">• Student Representative of the Department Undergraduate Committee (DUGC), Department of Computer Science and Engineering, IIT (BHU), Varanasi. 2015-2016</h3>
+          <p class="resume-item-copy" style="font-size:15px">• <strong>Student Representative of the Department Undergraduate Committee (DUGC)</strong>, Department of Computer Science and Engineering, IIT (BHU), Varanasi. 2015-2016</p>
         </div>
 
 

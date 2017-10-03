@@ -5,8 +5,8 @@
     <description>Ishank Arora's homepage.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 03 Oct 2017 13:41:39 +0530</pubDate>
-    <lastBuildDate>Tue, 03 Oct 2017 13:41:39 +0530</lastBuildDate>
+    <pubDate>Tue, 03 Oct 2017 14:19:56 +0530</pubDate>
+    <lastBuildDate>Tue, 03 Oct 2017 14:19:56 +0530</lastBuildDate>
     <generator>Jekyll v3.5.2</generator>
     
       <item>
@@ -234,19 +234,19 @@
 
         
         &lt;div class=&quot;resume-item&quot; itemscope=&quot;&quot; itemprop=&quot;alumniOf&quot; itemtype=&quot;http://schema.org/CollegeOrUniversity&quot;&gt;
-          &lt;h3 class=&quot;resume-item-title&quot; itemprop=&quot;name&quot; style=&quot;font-size:15px&quot;&gt;• Convener, Codefest 2017, the annual festival of Computer Engineering Society, IIT (BHU) Varanasi. 2017&lt;/h3&gt;
+          &lt;p class=&quot;resume-item-copy&quot; style=&quot;font-size:15px&quot;&gt;• &lt;strong&gt;Convener, Codefest 2017&lt;/strong&gt;, the annual festival of Computer Engineering Society, IIT (BHU) Varanasi. 2017&lt;/p&gt;
         &lt;/div&gt;
 
         &lt;div class=&quot;resume-item&quot; itemscope=&quot;&quot; itemprop=&quot;alumniOf&quot; itemtype=&quot;http://schema.org/CollegeOrUniversity&quot;&gt;
-          &lt;h3 class=&quot;resume-item-title&quot; itemprop=&quot;name&quot; style=&quot;font-size:15px&quot;&gt;• Joint Secretary, Club of Programmers, IIT (BHU) Varanasi. 2016-2017&lt;/h3&gt;
+          &lt;p class=&quot;resume-item-copy&quot; style=&quot;font-size:15px&quot;&gt;• &lt;strong&gt;Joint Secretary, Club of Programmers&lt;/strong&gt;, IIT (BHU) Varanasi. 2016-2017&lt;/p&gt;
         &lt;/div&gt;
 
         &lt;div class=&quot;resume-item&quot; itemscope=&quot;&quot; itemprop=&quot;alumniOf&quot; itemtype=&quot;http://schema.org/CollegeOrUniversity&quot;&gt;
-          &lt;h3 class=&quot;resume-item-title&quot; itemprop=&quot;name&quot; style=&quot;font-size:15px&quot;&gt;• Co-coordinator of A-Mazed, the autonomous grid-following robotics event of Technex 2016. 2016&lt;/h3&gt;
+          &lt;p class=&quot;resume-item-copy&quot; style=&quot;font-size:15px&quot;&gt;• &lt;strong&gt;Co-coordinator of A-Mazed&lt;/strong&gt;, the autonomous grid-following robotics event of Technex 2016. 2016&lt;/p&gt;
         &lt;/div&gt;
 
         &lt;div class=&quot;resume-item&quot; itemscope=&quot;&quot; itemprop=&quot;alumniOf&quot; itemtype=&quot;http://schema.org/CollegeOrUniversity&quot;&gt;
-          &lt;h3 class=&quot;resume-item-title&quot; itemprop=&quot;name&quot; style=&quot;font-size:15px&quot;&gt;• Student Representative of the Department Undergraduate Committee (DUGC), Department of Computer Science and Engineering, IIT (BHU), Varanasi. 2015-2016&lt;/h3&gt;
+          &lt;p class=&quot;resume-item-copy&quot; style=&quot;font-size:15px&quot;&gt;• &lt;strong&gt;Student Representative of the Department Undergraduate Committee (DUGC)&lt;/strong&gt;, Department of Computer Science and Engineering, IIT (BHU), Varanasi. 2015-2016&lt;/p&gt;
         &lt;/div&gt;
 
 
