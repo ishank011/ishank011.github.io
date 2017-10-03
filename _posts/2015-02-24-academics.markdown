@@ -1,7 +1,7 @@
 ---
 title: "Academics"
 layout: post
-date: 2017-10-03 01:51
+date: 2017-09-29 01:51
 image: /assets/images/markdown.jpg
 headerImage: false
 tag:
