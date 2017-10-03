@@ -1,7 +1,7 @@
 ---
 title: "Academics"
 layout: post
-date: 2017-09-18 01:51
+date: 2017-10-03 01:51
 image: /assets/images/markdown.jpg
 headerImage: false
 tag:
@@ -256,63 +256,3 @@ description: Markdown summary with different options
       </section>
       <!-- end PORs -->
       
-      <!-- begin Recognition -->
-      <section class="content-section">
-
-        <header class="section-header">
-          <h2 style="font-size:25px">Recognition</h2>
-        </header>
-
-        
-        <div class="resume-item">
-          <h3 class="resume-item-title" itemprop="award">Outstanding Achievement</h3>
-          <h4 class="resume-item-details">Springfield Nuclear Power Plant • 2010</h4>
-          <p class="resume-item-copy">Awarded for stopping a nuclear meltdown, even though I also started it.</p>
-        </div>
-        
-        <div class="resume-item">
-          <h3 class="resume-item-title" itemprop="award">Duff Beer Customer of the year</h3>
-          <h4 class="resume-item-details"> • 1997 — 2001, 2003, 2008 — 2012</h4>
-          <p class="resume-item-copy">Honored by <a href="https://en.wikipedia.org/wiki/Duff_Beer">Duff Beer</a>
- for being an outstanding customer several years straight. 
-Qualifications included most beer consumed at a bar, most beer 
-purchased, and most beer ralphed.</p>
-        </div>
-        
-        <div class="resume-item">
-          <h3 class="resume-item-title" itemprop="award">Moe's Patron of the Month</h3>
-          <h4 class="resume-item-details"> • 12/2001, 8/2004</h4>
-          <p class="resume-item-copy">Specifically this prestigious awarded twice for stopping a robber with my belly.</p>
-        </div>
-        
-
-      </section>
-      <!-- end Recognition -->
-      
-
-      
-      <!-- begin Associations -->
-      <section class="content-section">
-
-        <header class="section-header">
-          <h2 style="font-size:25px">Associations</h2>
-        </header>
-
-        
-        <div class="resume-item" itemscope="" itemprop="memberOf" itemtype="http://schema.org/Organization">
-          <h3 class="resume-item-title" itemprop="name"><a href="http://beerfortheworld.com/">Beer for the World</a></h3>
-          <h4 class="resume-item-details" itemprop="description">Volunteer • 2008 — Present</h4>
-          <p class="resume-item-copy">Organized fund drives and 
-participated in fundraising events for the benefit of families in third 
-world countries without proper access to malt beverages.</p>
-        </div>
-        
-        <div class="resume-item" itemscope="" itemprop="memberOf" itemtype="http://schema.org/Organization">
-          <h3 class="resume-item-title" itemprop="name"><a href="http://snwlu.org/">Springfield Nuclear Workers Labor Union</a></h3>
-          <h4 class="resume-item-details" itemprop="description">Member in Good Standing • 1994 — Present</h4>
-          <p class="resume-item-copy">Founding member of the local nuclear workers labor union.</p>
-        </div>
-        
-
-      </section>
-      <!-- end Associations -->

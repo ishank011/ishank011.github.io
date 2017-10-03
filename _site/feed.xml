@@ -5,8 +5,8 @@
     <description>Ishank Arora's homepage.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 03 Oct 2017 13:16:55 +0530</pubDate>
-    <lastBuildDate>Tue, 03 Oct 2017 13:16:55 +0530</lastBuildDate>
+    <pubDate>Tue, 03 Oct 2017 13:41:39 +0530</pubDate>
+    <lastBuildDate>Tue, 03 Oct 2017 13:41:39 +0530</lastBuildDate>
     <generator>Jekyll v3.5.2</generator>
     
       <item>
@@ -253,69 +253,9 @@
       &lt;/section&gt;
       &lt;!-- end PORs --&gt;
       
-      &lt;!-- begin Recognition --&gt;
-      &lt;section class=&quot;content-section&quot;&gt;
-
-        &lt;header class=&quot;section-header&quot;&gt;
-          &lt;h2 style=&quot;font-size:25px&quot;&gt;Recognition&lt;/h2&gt;
-        &lt;/header&gt;
-
-        
-        &lt;div class=&quot;resume-item&quot;&gt;
-          &lt;h3 class=&quot;resume-item-title&quot; itemprop=&quot;award&quot;&gt;Outstanding Achievement&lt;/h3&gt;
-          &lt;h4 class=&quot;resume-item-details&quot;&gt;Springfield Nuclear Power Plant • 2010&lt;/h4&gt;
-          &lt;p class=&quot;resume-item-copy&quot;&gt;Awarded for stopping a nuclear meltdown, even though I also started it.&lt;/p&gt;
-        &lt;/div&gt;
-        
-        &lt;div class=&quot;resume-item&quot;&gt;
-          &lt;h3 class=&quot;resume-item-title&quot; itemprop=&quot;award&quot;&gt;Duff Beer Customer of the year&lt;/h3&gt;
-          &lt;h4 class=&quot;resume-item-details&quot;&gt; • 1997 — 2001, 2003, 2008 — 2012&lt;/h4&gt;
-          &lt;p class=&quot;resume-item-copy&quot;&gt;Honored by &lt;a href=&quot;https://en.wikipedia.org/wiki/Duff_Beer&quot;&gt;Duff Beer&lt;/a&gt;
- for being an outstanding customer several years straight. 
-Qualifications included most beer consumed at a bar, most beer 
-purchased, and most beer ralphed.&lt;/p&gt;
-        &lt;/div&gt;
-        
-        &lt;div class=&quot;resume-item&quot;&gt;
-          &lt;h3 class=&quot;resume-item-title&quot; itemprop=&quot;award&quot;&gt;Moe's Patron of the Month&lt;/h3&gt;
-          &lt;h4 class=&quot;resume-item-details&quot;&gt; • 12/2001, 8/2004&lt;/h4&gt;
-          &lt;p class=&quot;resume-item-copy&quot;&gt;Specifically this prestigious awarded twice for stopping a robber with my belly.&lt;/p&gt;
-        &lt;/div&gt;
-        
-
-      &lt;/section&gt;
-      &lt;!-- end Recognition --&gt;
-      
-
-      
-      &lt;!-- begin Associations --&gt;
-      &lt;section class=&quot;content-section&quot;&gt;
-
-        &lt;header class=&quot;section-header&quot;&gt;
-          &lt;h2 style=&quot;font-size:25px&quot;&gt;Associations&lt;/h2&gt;
-        &lt;/header&gt;
-
-        
-        &lt;div class=&quot;resume-item&quot; itemscope=&quot;&quot; itemprop=&quot;memberOf&quot; itemtype=&quot;http://schema.org/Organization&quot;&gt;
-          &lt;h3 class=&quot;resume-item-title&quot; itemprop=&quot;name&quot;&gt;&lt;a href=&quot;http://beerfortheworld.com/&quot;&gt;Beer for the World&lt;/a&gt;&lt;/h3&gt;
-          &lt;h4 class=&quot;resume-item-details&quot; itemprop=&quot;description&quot;&gt;Volunteer • 2008 — Present&lt;/h4&gt;
-          &lt;p class=&quot;resume-item-copy&quot;&gt;Organized fund drives and 
-participated in fundraising events for the benefit of families in third 
-world countries without proper access to malt beverages.&lt;/p&gt;
-        &lt;/div&gt;
-        
-        &lt;div class=&quot;resume-item&quot; itemscope=&quot;&quot; itemprop=&quot;memberOf&quot; itemtype=&quot;http://schema.org/Organization&quot;&gt;
-          &lt;h3 class=&quot;resume-item-title&quot; itemprop=&quot;name&quot;&gt;&lt;a href=&quot;http://snwlu.org/&quot;&gt;Springfield Nuclear Workers Labor Union&lt;/a&gt;&lt;/h3&gt;
-          &lt;h4 class=&quot;resume-item-details&quot; itemprop=&quot;description&quot;&gt;Member in Good Standing • 1994 — Present&lt;/h4&gt;
-          &lt;p class=&quot;resume-item-copy&quot;&gt;Founding member of the local nuclear workers labor union.&lt;/p&gt;
-        &lt;/div&gt;
-        
-
-      &lt;/section&gt;
-      &lt;!-- end Associations --&gt;
 &lt;/header&gt;&lt;/div&gt;&lt;/body&gt;
 </description>
-        <pubDate>Mon, 18 Sep 2017 01:51:00 +0530</pubDate>
+        <pubDate>Tue, 03 Oct 2017 01:51:00 +0530</pubDate>
         <link>http://localhost:4000/academics/</link>
         <guid isPermaLink="true">http://localhost:4000/academics/</guid>
         
