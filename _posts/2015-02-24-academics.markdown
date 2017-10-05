@@ -168,7 +168,7 @@ description: Markdown summary with different options
         <div class="resume-item" itemscope="" itemprop="worksFor" itemtype="http://schema.org/Organization">
           <h3 class="resume-item-title" itemprop="name" style="font-size:20px"><a href="https://github.com/ishank011/Health-Keep" target="_blank">Health-Keep</a></h3>
           <h4 class="resume-item-details" itemprop="description" style="font-size:15px">February 2017</h4>
-          <p class="resume-item-copy">n android application which notifies the user of the diseases spreading in their locality and precautionary measures to be taken, by forming clusters of the reported cases and testing whether the user’s location lies in any of the clusters through various heuristics, using data supplied by doctors and hospitals to report cases.</p>
+          <p class="resume-item-copy">An android application which notifies the user of the diseases spreading in their locality and precautionary measures to be taken, by forming clusters of the reported cases and testing whether the user’s location lies in any of the clusters through various heuristics, using data supplied by doctors and hospitals to report cases.</p>
         </div><!-- end of resume-item -->
 
         <div class="resume-item" itemscope="" itemprop="worksFor" itemtype="http://schema.org/Organization">
