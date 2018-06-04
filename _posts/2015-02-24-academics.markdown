@@ -1,7 +1,7 @@
 ---
 title: "Academics"
 layout: post
-date: 2017-09-29 01:51
+date: 2018-06-02 01:51
 image: /assets/images/markdown.jpg
 headerImage: false
 tag:
@@ -57,7 +57,7 @@ description: Markdown summary with different options
           <h3 class="resume-item-title" itemprop="name" style="font-size:20px">Indian Institute of Technology (BHU) Varanasi</h3>
           <h4 class="resume-item-details" itemprop="description" style="font-size:15px">July 2014 — Present</h4>
           <p class="resume-item-copy">Integrated Dual Degree (B.Tech + M.Tech) in Computer Science and Engineering.<br>
-          Current GPA: <strong>9.74/10</strong>.</p>
+          Current GPA: <strong>9.64/10</strong>.</p>
         </div><!-- end of resume-item -->
 
         <div class="resume-item" itemscope="" itemprop="worksFor" itemtype="http://schema.org/Organization">
@@ -87,6 +87,12 @@ description: Markdown summary with different options
           <h2 style="font-size:25px">Internships</h2>
         </header>
 
+        <div class="resume-item" itemscope="" itemprop="alumniOf" itemtype="http://schema.org/CollegeOrUniversity">
+          <h3 class="resume-item-title" itemprop="name"  style="font-size:20px">Information Systems and Machine Learning Lab, University of Hildesheim</h3>
+          <h4 class="resume-item-details group" itemprop="description"  style="font-size:15px">May 2018 - Present</h4>
+          <h5 class="resume-item-details award-title" itemprop="description"  style="font-size:15px">Research Intern under Prof. Lars Schmidt-Thieme</h5>
+          <p class="resume-item-copy">Working with the Information Systems and Machine Learning Lab (ISMLL) on predicting the behaviour of learning curves across different datasets and algorithms through Bayesian optimization to automate the process of hyperparameter optimization.</p>
+        </div>
         
         <div class="resume-item" itemscope="" itemprop="alumniOf" itemtype="http://schema.org/CollegeOrUniversity">
           <h3 class="resume-item-title" itemprop="name"  style="font-size:20px">Nutanix Inc.</h3>
@@ -130,7 +136,14 @@ description: Markdown summary with different options
           <h2 style="font-size:25px">Research Projects</h2>
         </header>
 
-        
+        <div class="resume-item" itemscope="" itemprop="alumniOf" itemtype="http://schema.org/CollegeOrUniversity">
+          <h3 class="resume-item-title" itemprop="name"  style="font-size:20px">Novel iteration for Stocachastic Proximal Gradient Descent with Adaptive Restart</h3>
+          <h4 class="resume-item-details group" itemprop="description"  style="font-size:15px">September - November 2017</h4>
+          <h5 class="resume-item-details award-title" itemprop="description"  style="font-size:15px">Guide: Prof. K. K. Shukla, IIT (BHU) Varanasi</h5>
+          <p class="resume-item-copy"> Worked on developing a new iterative scheme for Stochastic
+Proximal Gradient incorporating Nesterov's acceleration, variance reduction and adaptive restart to significantly increase the rate of convergence achieved by current state of the art. The work is currently under evaluation.</p>
+        </div>
+
         <div class="resume-item" itemscope="" itemprop="alumniOf" itemtype="http://schema.org/CollegeOrUniversity">
           <h3 class="resume-item-title" itemprop="name"  style="font-size:20px">Proof of Convergence for a two stage Crossover for Multiobjective Optimization</h3>
           <h4 class="resume-item-details group" itemprop="description"  style="font-size:15px">January - April 2017</h4>
@@ -164,7 +177,18 @@ description: Markdown summary with different options
           <h2 style="font-size:25px">Software Projects</h2>
         </header>
 
-        
+        <div class="resume-item" itemscope="" itemprop="worksFor" itemtype="http://schema.org/Organization">
+          <h3 class="resume-item-title" itemprop="name" style="font-size:20px"><a href="https://github.com/ishank011/grgdescent" target="_blank">Generalized Reduced Gradient Algorithm</a></h3>
+          <h4 class="resume-item-details" itemprop="description" style="font-size:15px">March 2018</h4>
+          <p class="resume-item-copy">Implemented the generalized reduced gradient (GRG) algorithm based on implicit variable elimination to solve unconstrained optimization problems using Symbolic Python.</p>
+        </div><!-- end of resume-item -->
+
+        <div class="resume-item" itemscope="" itemprop="worksFor" itemtype="http://schema.org/Organization">
+          <h3 class="resume-item-title" itemprop="name" style="font-size:20px"><a href="https://github.com/ishank011/secure_voting" target="_blank">Secure voting protocol with multiple Central Tabulating Facilities</a></h3>
+          <h4 class="resume-item-details" itemprop="description" style="font-size:15px">October 2017</h4>
+          <p class="resume-item-copy">Implemented a secure voting protocol based on homomorphic encryption with numerous Central Tabulating Facilities (CTFs), where the vote preference of each voter is hidden from the CTFs.</p>
+        </div><!-- end of resume-item -->
+
         <div class="resume-item" itemscope="" itemprop="worksFor" itemtype="http://schema.org/Organization">
           <h3 class="resume-item-title" itemprop="name" style="font-size:20px"><a href="https://github.com/ishank011/Health-Keep" target="_blank">Health-Keep</a></h3>
           <h4 class="resume-item-details" itemprop="description" style="font-size:15px">February 2017</h4>
@@ -180,7 +204,7 @@ description: Markdown summary with different options
         <div class="resume-item" itemscope="" itemprop="worksFor" itemtype="http://schema.org/Organization">
           <h3 class="resume-item-title" itemprop="name" style="font-size:20px">Live Gesture Recognition</h3>
           <h4 class="resume-item-details" itemprop="description" style="font-size:15px">April 2016</h4>
-          <p class="resume-item-copy">An application to detect the arm gestures of the subject using the gyroscope sensors in android phones and multi-layer Artificial Neural Networks, implemented through socket programming.</p>
+          <p class="resume-item-copy">An application to detect the arm gestures of the subject using the gyroscope sensors in android phones and deep neural networks in TensorFlow, implemented through socket programming.</p>
         </div><!-- end of resume-item -->
 
         <div class="resume-item" itemscope="" itemprop="worksFor" itemtype="http://schema.org/Organization">
@@ -221,10 +245,17 @@ description: Markdown summary with different options
         </header>
         
         <div class="resume-item" itemscope="" itemprop="alumniOf" itemtype="http://schema.org/CollegeOrUniversity">
+          <h3 class="resume-item-title" itemprop="name"  style="font-size:20px">Teaching Assistant, ITW-1: Information Technology Workshop-I</h3>
+          <h4 class="resume-item-details group" itemprop="description"  style="font-size:15px">Spring semester, 2018</h4>
+          <p class="resume-item-copy">Took tutorial sessions and prepared laboratory assignments on BASH scripting and advanced Python.</p>
+        </div> 
+
+        <div class="resume-item" itemscope="" itemprop="alumniOf" itemtype="http://schema.org/CollegeOrUniversity">
           <h3 class="resume-item-title" itemprop="name"  style="font-size:20px">Teaching Assistant, CSO-101: Introduction to Computer Programming and Linux</h3>
           <h4 class="resume-item-details group" itemprop="description"  style="font-size:15px">Fall semester, 2016 and Spring semester, 2017</h4>
           <p class="resume-item-copy">Responsibilities included taking laboratory and tutorial sessions for the students, and setting assignment and lab exam problems.</p>
-        </div>       
+        </div> 
+
 
       </section>
       <!-- end Teaching Experience -->
