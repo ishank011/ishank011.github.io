@@ -89,23 +89,23 @@ description: Markdown summary with different options
 
         <div class="resume-item" itemscope="" itemprop="alumniOf" itemtype="http://schema.org/CollegeOrUniversity">
           <h3 class="resume-item-title" itemprop="name"  style="font-size:20px">Information Systems and Machine Learning Lab, University of Hildesheim</h3>
-          <h4 class="resume-item-details group" itemprop="description"  style="font-size:15px">May 2018 - Present</h4>
+          <h4 class="resume-item-details group" itemprop="description"  style="font-size:15px">May - July 2018</h4>
           <h5 class="resume-item-details award-title" itemprop="description"  style="font-size:15px">Research Intern under Prof. Lars Schmidt-Thieme</h5>
-          <p class="resume-item-copy">Working with the Information Systems and Machine Learning Lab (ISMLL) on predicting the behaviour of learning curves across different datasets and algorithms through Bayesian optimization to automate the process of hyperparameter optimization.</p>
+          <p class="resume-item-copy">Worked with the Information Systems and Machine Learning Lab (ISMLL) under Prof. Lars Schmidt-Thieme on the extrapolation of partially trained learning curves across different datasets through deep CNNs, which outperform the state of the art Bayesian counterparts, to automate the process of architecture search and meta-modeling.</p>
         </div>
         
         <div class="resume-item" itemscope="" itemprop="alumniOf" itemtype="http://schema.org/CollegeOrUniversity">
           <h3 class="resume-item-title" itemprop="name"  style="font-size:20px">Nutanix Inc.</h3>
           <h4 class="resume-item-details group" itemprop="description"  style="font-size:15px">May - July 2017</h4>
           <h5 class="resume-item-details award-title" itemprop="description"  style="font-size:15px">Software Developer Intern</h5>
-          <p class="resume-item-copy">Worked with the Stargate team on the development and automation of QoS Phase-II which implements user policies for VMs and Volume Groups through multiple interfaces. Also integrated the Undefined Behavior Sanitizer (UBSan) for GCC for catching bugs related to integer overflows and misaligned pointers at runtime.</p>
+          <p class="resume-item-copy">Worked with the Stargate team on the development and automation of user-defined hierarchical I/O throttling policies for VMs and Volume Groups through interfaces such as RPC, CLI and REST. Also integrated the Undefined Behavior Sanitizer (UBSan) for GCC for catching bugs related to integer overflows and misaligned pointers at runtime.</p>
         </div>
 
         <div class="resume-item" itemscope="" itemprop="alumniOf" itemtype="http://schema.org/CollegeOrUniversity">
           <h3 class="resume-item-title" itemprop="name"  style="font-size:20px">Scientific Analysis Group, Defence Research and Development Organization</h3>
           <h4 class="resume-item-details group" itemprop="description"  style="font-size:15px">May - July 2016</h4>
           <h5 class="resume-item-details award-title" itemprop="description"  style="font-size:15px">Swarm Intelligence Research Intern</h5>
-          <p class="resume-item-copy">Worked under Dr. S. K. Pal to implement hybrid and binary versions of nature inspired swarm optimization algorithms, Artificial Bee Colony, Firefly algorithm, etc. for solving NP and NP Hard problems such as Integer Factorization and the Set Covering Problem. Explored the possibility of developing better versions of the algorithms by coupling with a combination of genetic and differential evolution techniques and introduction of new control parameters.</p>
+          <p class="resume-item-copy">Worked under Dr. S. K. Pal on developing hybrid versions of nature inspired swarm optimization algorithms, Artificial Bee Colony and Firefly algorithm, by coupling with genetic and evolution techniques and introducing new control parameters, for solving NP Hard problems such as Integer Factorization and the Set Covering Problem.</p>
         </div>
         
       </section>
