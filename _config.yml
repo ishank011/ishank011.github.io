@@ -14,7 +14,7 @@ picture: assets/images/profile.jpg
 # and specify source (external or local).
 resume: true
 resume-external: false
-resume-url: Ishank_Arora.pdf
+resume-url: https://drive.google.com/file/d/0B6zadMEioBIAbW5GcjZYbkxSdU0/view
 
 url: https://ishank011.github.io
 # your url: http://USERNAME.github.io
