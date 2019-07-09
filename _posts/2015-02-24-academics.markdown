@@ -1,7 +1,7 @@
 ---
 title: "Academics"
 layout: post
-date: 2018-09-24 01:51
+date: 2019-07-08 01:51
 image: /assets/images/markdown.jpg
 headerImage: false
 tag:
@@ -43,6 +43,50 @@ description: Markdown summary with different options
 
       <header class="page-header">
 
+
+      <!-- begin Internships -->
+      <section class="content-section">
+        <header class="section-header">
+          <h2 style="font-size:25px">Internships</h2>
+        </header>
+
+        <div class="resume-item" itemscope="" itemprop="alumniOf" itemtype="http://schema.org/CollegeOrUniversity">
+          <h3 class="resume-item-title" itemprop="name"  style="font-size:20px">CERN</h3>
+          <h4 class="resume-item-details group" itemprop="description"  style="font-size:15px">June 2019 - Present</h4>
+          <h5 class="resume-item-details award-title" itemprop="description"  style="font-size:15px">Openlab Summer Student with the File Storage team</h5>
+          <p class="resume-item-copy">Developing the diagnosis and remediation platform through expert anomaly detection systems for the CERN cloud sync utility, which would enable the automation of  mitigation procedures for troubleshooting tasks.</p>
+        </div>
+
+        <div class="resume-item" itemscope="" itemprop="alumniOf" itemtype="http://schema.org/CollegeOrUniversity">
+          <h3 class="resume-item-title" itemprop="name"  style="font-size:20px">National University of Singapore</h3>
+          <h4 class="resume-item-details group" itemprop="description"  style="font-size:15px">Jan - May 2019</h4>
+          <h5 class="resume-item-details award-title" itemprop="description"  style="font-size:15px">Visiting Researcher</h5>
+          <p class="resume-item-copy">Worked on developing novel high-dimensional Bayesian optimization algorithms using generalized tree-structured additive models defined on overlapping variable instances, making the kernel learning much more efficient.</p>
+        </div>
+
+        <div class="resume-item" itemscope="" itemprop="alumniOf" itemtype="http://schema.org/CollegeOrUniversity">
+          <h3 class="resume-item-title" itemprop="name"  style="font-size:20px">Information Systems and Machine Learning Lab, University of Hildesheim</h3>
+          <h4 class="resume-item-details group" itemprop="description"  style="font-size:15px">May - July 2018</h4>
+          <h5 class="resume-item-details award-title" itemprop="description"  style="font-size:15px">Research Intern under Prof. Lars Schmidt-Thieme</h5>
+          <p class="resume-item-copy">Worked with the Information Systems and Machine Learning Lab (ISMLL) under Prof. Lars Schmidt-Thieme on the extrapolation of partially trained learning curves across different datasets through deep CNNs, which outperform the state of the art Bayesian counterparts, to automate the process of architecture search and meta-modeling. (paper currently under review)</p>
+        </div>
+        
+        <div class="resume-item" itemscope="" itemprop="alumniOf" itemtype="http://schema.org/CollegeOrUniversity">
+          <h3 class="resume-item-title" itemprop="name"  style="font-size:20px">Nutanix Inc.</h3>
+          <h4 class="resume-item-details group" itemprop="description"  style="font-size:15px">May - July 2017</h4>
+          <h5 class="resume-item-details award-title" itemprop="description"  style="font-size:15px">Software Developer Intern</h5>
+          <p class="resume-item-copy">Worked with the Stargate team on the development and automation of user-defined hierarchical I/O throttling policies for VMs and Volume Groups through interfaces such as RPC, CLI and REST. Also integrated the Undefined Behavior Sanitizer (UBSan) for GCC for catching bugs related to integer overflows and misaligned pointers at runtime.</p>
+        </div>
+
+        <div class="resume-item" itemscope="" itemprop="alumniOf" itemtype="http://schema.org/CollegeOrUniversity">
+          <h3 class="resume-item-title" itemprop="name"  style="font-size:20px">Scientific Analysis Group, Defence Research and Development Organization</h3>
+          <h4 class="resume-item-details group" itemprop="description"  style="font-size:15px">May - July 2016</h4>
+          <h5 class="resume-item-details award-title" itemprop="description"  style="font-size:15px">Swarm Intelligence Research Intern</h5>
+          <p class="resume-item-copy">Worked under Dr. S. K. Pal on developing hybrid versions of nature inspired swarm optimization algorithms, Artificial Bee Colony and Firefly algorithm, by coupling with genetic and evolution techniques and introducing new control parameters, for solving NP Hard problems such as Integer Factorization and the Set Covering Problem.</p>
+        </div>
+        
+      </section>
+      <!-- end Internships -->
       
               
       <!-- begin Education -->
@@ -57,7 +101,7 @@ description: Markdown summary with different options
           <h3 class="resume-item-title" itemprop="name" style="font-size:20px">Indian Institute of Technology (BHU) Varanasi</h3>
           <h4 class="resume-item-details" itemprop="description" style="font-size:15px">July 2014 — Present</h4>
           <p class="resume-item-copy">Integrated Dual Degree (B.Tech + M.Tech) in Computer Science and Engineering.<br>
-          Current GPA: <strong>9.64/10</strong>.</p>
+          Current GPA: <strong>9.65/10</strong>.</p>
         </div><!-- end of resume-item -->
 
         <div class="resume-item" itemscope="" itemprop="worksFor" itemtype="http://schema.org/Organization">
@@ -78,38 +122,6 @@ description: Markdown summary with different options
       </section>
       <!-- end Education -->
       
-
-
-      
-      <!-- begin Internships -->
-      <section class="content-section">
-        <header class="section-header">
-          <h2 style="font-size:25px">Internships</h2>
-        </header>
-
-        <div class="resume-item" itemscope="" itemprop="alumniOf" itemtype="http://schema.org/CollegeOrUniversity">
-          <h3 class="resume-item-title" itemprop="name"  style="font-size:20px">Information Systems and Machine Learning Lab, University of Hildesheim</h3>
-          <h4 class="resume-item-details group" itemprop="description"  style="font-size:15px">May - July 2018</h4>
-          <h5 class="resume-item-details award-title" itemprop="description"  style="font-size:15px">Research Intern under Prof. Lars Schmidt-Thieme</h5>
-          <p class="resume-item-copy">Worked with the Information Systems and Machine Learning Lab (ISMLL) under Prof. Lars Schmidt-Thieme on the extrapolation of partially trained learning curves across different datasets through deep CNNs, which outperform the state of the art Bayesian counterparts, to automate the process of architecture search and meta-modeling.</p>
-        </div>
-        
-        <div class="resume-item" itemscope="" itemprop="alumniOf" itemtype="http://schema.org/CollegeOrUniversity">
-          <h3 class="resume-item-title" itemprop="name"  style="font-size:20px">Nutanix Inc.</h3>
-          <h4 class="resume-item-details group" itemprop="description"  style="font-size:15px">May - July 2017</h4>
-          <h5 class="resume-item-details award-title" itemprop="description"  style="font-size:15px">Software Developer Intern</h5>
-          <p class="resume-item-copy">Worked with the Stargate team on the development and automation of user-defined hierarchical I/O throttling policies for VMs and Volume Groups through interfaces such as RPC, CLI and REST. Also integrated the Undefined Behavior Sanitizer (UBSan) for GCC for catching bugs related to integer overflows and misaligned pointers at runtime.</p>
-        </div>
-
-        <div class="resume-item" itemscope="" itemprop="alumniOf" itemtype="http://schema.org/CollegeOrUniversity">
-          <h3 class="resume-item-title" itemprop="name"  style="font-size:20px">Scientific Analysis Group, Defence Research and Development Organization</h3>
-          <h4 class="resume-item-details group" itemprop="description"  style="font-size:15px">May - July 2016</h4>
-          <h5 class="resume-item-details award-title" itemprop="description"  style="font-size:15px">Swarm Intelligence Research Intern</h5>
-          <p class="resume-item-copy">Worked under Dr. S. K. Pal on developing hybrid versions of nature inspired swarm optimization algorithms, Artificial Bee Colony and Firefly algorithm, by coupling with genetic and evolution techniques and introducing new control parameters, for solving NP Hard problems such as Integer Factorization and the Set Covering Problem.</p>
-        </div>
-        
-      </section>
-      <!-- end Internships -->
       
       <!-- begin Publications -->
       <section class="content-section">
