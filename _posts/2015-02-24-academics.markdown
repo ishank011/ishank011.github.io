@@ -44,10 +44,10 @@ description: Markdown summary with different options
       <header class="page-header">
 
 
-      <!-- begin Internships -->
+      <!-- begin Work Experience -->
       <section class="content-section">
         <header class="section-header">
-          <h2 style="font-size:25px">Internships</h2>
+          <h2 style="font-size:25px">Work Experience</h2>
         </header>
 
         <div class="resume-item" itemscope="" itemprop="alumniOf" itemtype="http://schema.org/CollegeOrUniversity">
@@ -86,7 +86,7 @@ description: Markdown summary with different options
         </div>
         
       </section>
-      <!-- end Internships -->
+      <!-- end Work Experience -->
       
               
       <!-- begin Education -->
@@ -99,7 +99,7 @@ description: Markdown summary with different options
         
         <div class="resume-item" itemscope="" itemprop="worksFor" itemtype="http://schema.org/Organization">
           <h3 class="resume-item-title" itemprop="name" style="font-size:20px">Indian Institute of Technology (BHU) Varanasi</h3>
-          <h4 class="resume-item-details" itemprop="description" style="font-size:15px">July 2014 — Present</h4>
+          <h4 class="resume-item-details" itemprop="description" style="font-size:15px">July 2014 — May 2019</h4>
           <p class="resume-item-copy">Integrated Dual Degree (B.Tech + M.Tech) in Computer Science and Engineering.<br>
           Current GPA: <strong>9.65/10</strong>.</p>
         </div><!-- end of resume-item -->
@@ -133,6 +133,8 @@ description: Markdown summary with different options
         <div class="resume-item">
           <ul class="resume-item-list">
             
+            <li>Ishank Arora, Eric Han, Jonathan Scarlett, K. K. Shukla, ”High-Dimensional Bayesian Optimization via Tree-Structured Generalized Additive Models”, IEEE International Symposium on Information Theory (ISIT) Recent Results, 2019.</li>
+
             <li>Ishank Arora, Anant Dadu, Mridula Verma, K. K. Shukla, ”Random Projections of Fischer Linear Discriminant Classifier for Multi-Class Classification”, in proceedings of the 4th International Symposium on Computational and Business Intelligence, September 2016, Olten, Switzerland.</li>
             
           </ul>
